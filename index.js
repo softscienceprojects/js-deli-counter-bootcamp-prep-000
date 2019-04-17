@@ -8,9 +8,9 @@ var katzDeliLine = [];
 function takeANumber(num) {
   // the person needs to take a number
   
-  
+
   // return only 'now serving' & their number, & will need to take off their number eventually
-  
+
 }
 
 function nowServing (katzDeliLine) {
