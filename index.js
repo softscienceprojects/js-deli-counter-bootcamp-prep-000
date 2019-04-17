@@ -11,7 +11,7 @@ function takeANumber(num, katzDeliLine) {
   num++;
   katzDeliLine.push(num);
   // return only 'now serving' & their number, & will need to take off their number eventually
-
+  return num;
 }
 
 function nowServing (katzDeliLine) {
