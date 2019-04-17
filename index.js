@@ -8,7 +8,7 @@ var num = 0;
 
 function takeANumber(num, katzDeliLine) {
   // the person needs to take a number
-  
+
 
   // return only 'now serving' & their number, & will need to take off their number eventually
 
