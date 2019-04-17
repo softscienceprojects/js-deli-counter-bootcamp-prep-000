@@ -5,9 +5,9 @@ var katzDeliLine = [];
 //   return `Welcome, ${name}. You are number ${line.length} in line.`
 // };
 
-function takeANumber(num) {
+function takeANumber(katzDeliLine) {
   // the person needs to take a number
-  
+
 
   // return only 'now serving' & their number, & will need to take off their number eventually
 
