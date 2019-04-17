@@ -1,9 +1,17 @@
 var katzDeliLine = [];
 
-function takeANumber (line, name) {
-  line.push(name);
-  return `Welcome, ${name}. You are number ${line.length} in line.`
-};
+// function takeANumber (line, name) {
+//   line.push(name);
+//   return `Welcome, ${name}. You are number ${line.length} in line.`
+// };
+
+function takeANumber(num) {
+  // the person needs to take a number
+  
+  
+  // return only 'now serving' & their number, & will need to take off their number eventually
+  
+}
 
 function nowServing (katzDeliLine) {
   if (katzDeliLine.length === 0) {
